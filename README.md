@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Louis!
+Hi! My name is Lwin Min Paing!
 
 
 ## 🌐 Socials:
