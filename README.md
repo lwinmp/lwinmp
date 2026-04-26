@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi! My name is Lwin Min Paing. 
-# 👨‍🎓
+# 👨‍🎓 - Graduate Degree (Master's)
 I am an international graduate engineering student, focusing on Artifical Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), at Chulalongkorn University. My research area is 3D face reconstruction from 2D human image, which specifically uses DL to regress FLAME parameters to obtain 3D face geometry. These reconstructed 3D later use to create 3D human avatars by attaching to SMPLX body model.
 
-# 👨‍🎓
+# 👨‍🎓 - Undergraduate Degree (Bachelor's)
 I have completed my undergraduate degree in University of Computer Studies, Yangon (UCSY). My focus was Computer Visions and Graphics (CVGs) and Cloud Computing for interconnected network. My thesis was about Software Defined Networking (SDN), Limitations and Difficulties: Implementing Open Day Light (OPD) controller in a small environmnet, which was sucessfully tested in UCSMub new third floor building.
 
 # 👷‍♂️👨‍💻 2023–2024
@@ -24,7 +24,7 @@ required infrastructure using Cloud Platforms
 # 👷‍♂️👨‍💻 2022–2022
 
 **Position:** IT Support & DevOps Engineer  
-**Organization:** [Tun Yat Co., Ltd.](https://www.linkedin.com/company/caringcodecreation/](https://www.linkedin.com/company/tunyat/)
+**Organization:** [Tun Yat Co., Ltd.](https://www.linkedin.com/company/tunyat/)
 
 Job Summary:
 ■ Involve in any type of software/application testing - install & configure hardware, software &
