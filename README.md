@@ -14,10 +14,13 @@ I have completed my undergraduate degree in University of Computer Studies, Yang
 Job Summary:
 ■ Applies DevOps thinking - Defines and executes a balanced management methodology that is
 capable of organization a diverse collection of technical activities into a work-steam
+
 ■ Provides DevOps thought leadership and mentoring in both advisory and delivery contexts,
 focusing on requirements
+
 ■ Encouraging and building automated processes wherever possible and setting up tools and
 required infrastructure using Cloud Platforms
+
 ■ Provide support to software engineers who use the CI/CD pipelines
 
 
@@ -27,17 +30,24 @@ required infrastructure using Cloud Platforms
 **Organization:** [Tun Yat Co., Ltd.](https://www.linkedin.com/company/tunyat/)
 
 Job Summary:
+
 ■ Involve in any type of software/application testing - install & configure hardware, software &
 OS including test & evaluate new technology
+
 ■ Set up Cloud platform for V-Shop according to Agile methodology with Tech team members
+
 ■ Deliver efficient and effective DevOps act to Tech team – e.g establishing CI/CD pipeline,
 integrating with monitoring tools for Dev, Stage, and Prod servers
 
 Key Achievements:
+
 ■ Successfully designed and implemented the production level Cloud Infrastructure with Amazon
 Web Services (AWS) for the Tun Yat’s new platform called V-Shop
+
 ■ Successfully set up the Tun Yat Head Office Network infrastructure with Mikrotik router
+
 ■ Successfully set up the Fingerprint Attendance for Tun Yat Head Office and Branch Offices
+
 ■ Successfully trained the Computer Basic Course for Magway branch offices’ staffs
 
 ## 🌐 Socials:
