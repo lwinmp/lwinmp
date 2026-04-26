@@ -8,7 +8,8 @@ I have completed my undergraduate degree in University of Computer Studies, Yang
 
 # 👷‍♂️👨‍💻 - 2023 - 2024
 Position - DevOps Engineer
-Organization - C3 Co., Ltd. [![C3](https://www.linkedin.com/company/caringcodecreation/)
+Organization - C3 Co., Ltd. [![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png/jcr:content/renditions/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png)]([https://instagram.com/__lw1n__](https://www.linkedin.com/company/caringcodecreation/)
+
 Job Summary:
 ■ Applies DevOps thinking - Defines and executes a balanced management methodology that is
 capable of organization a diverse collection of technical activities into a work-steam
