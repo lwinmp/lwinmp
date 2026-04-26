@@ -1,5 +1,23 @@
 # 💫 About Me:
-Hi! My name is Lwin Min Paing!
+Hi! My name is Lwin Min Paing. 
+# 👨‍🎓
+I am an international graduate engineering student, focusing on Artifical Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), at Chulalongkorn University. My research area is 3D face reconstruction from 2D human image, which specifically uses DL to regress FLAME parameters to obtain 3D face geometry. These reconstructed 3D later use to create 3D human avatars by attaching to SMPLX body model.
+
+# 👨‍🎓
+I have completed my undergraduate degree in University of Computer Studies, Yangon (UCSY). My focus was Computer Visions and Graphics (CVGs) and Cloud Computing for interconnected network. My thesis was about Software Defined Networking (SDN), Limitations and Difficulties: Implementing Open Day Light (OPD) controller in a small environmnet, which was sucessfully tested in UCSMub new third floor building.
+
+# 👷‍♂️👨‍💻 - 2023 - 2024
+Position - DevOps Engineer
+Organization - C3 Co., Ltd. [![C3](https://www.linkedin.com/company/caringcodecreation/)]
+Job Summary:
+■ Applies DevOps thinking - Defines and executes a balanced management methodology that is
+capable of organization a diverse collection of technical activities into a work-steam
+■ Provides DevOps thought leadership and mentoring in both advisory and delivery contexts,
+focusing on requirements
+■ Encouraging and building automated processes wherever possible and setting up tools and
+required infrastructure using Cloud Platforms
+■ Provide support to software engineers who use the CI/CD pipelines
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lw1n__) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lwinminpaing.mm) 
