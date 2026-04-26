@@ -6,9 +6,9 @@ I am an international graduate engineering student, focusing on Artifical Intell
 # 👨‍🎓
 I have completed my undergraduate degree in University of Computer Studies, Yangon (UCSY). My focus was Computer Visions and Graphics (CVGs) and Cloud Computing for interconnected network. My thesis was about Software Defined Networking (SDN), Limitations and Difficulties: Implementing Open Day Light (OPD) controller in a small environmnet, which was sucessfully tested in UCSMub new third floor building.
 
-# 👷‍♂️👨‍💻 - 2023 - 2024
-Position - DevOps Engineer
-Organization - C3 Co., Ltd. [![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png/jcr:content/renditions/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png)]([https://instagram.com/__lw1n__](https://www.linkedin.com/company/caringcodecreation/)
+# 👷‍♂️👨‍💻 2023–2024
+**Position:** DevOps Engineer  
+**Organization:** C3 Co., Ltd. [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/company/caringcodecreation/)
 
 Job Summary:
 ■ Applies DevOps thinking - Defines and executes a balanced management methodology that is
