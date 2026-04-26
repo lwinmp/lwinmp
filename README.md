@@ -21,6 +21,25 @@ required infrastructure using Cloud Platforms
 ■ Provide support to software engineers who use the CI/CD pipelines
 
 
+# 👷‍♂️👨‍💻 2022–2022
+
+**Position:** IT Support & DevOps Engineer  
+**Organization:** [Tun Yat Co., Ltd.](https://www.linkedin.com/company/caringcodecreation/](https://www.linkedin.com/company/tunyat/)
+
+Job Summary:
+■ Involve in any type of software/application testing - install & configure hardware, software &
+OS including test & evaluate new technology
+■ Set up Cloud platform for V-Shop according to Agile methodology with Tech team members
+■ Deliver efficient and effective DevOps act to Tech team – e.g establishing CI/CD pipeline,
+integrating with monitoring tools for Dev, Stage, and Prod servers
+
+Key Achievements:
+■ Successfully designed and implemented the production level Cloud Infrastructure with Amazon
+Web Services (AWS) for the Tun Yat’s new platform called V-Shop
+■ Successfully set up the Tun Yat Head Office Network infrastructure with Mikrotik router
+■ Successfully set up the Fingerprint Attendance for Tun Yat Head Office and Branch Offices
+■ Successfully trained the Computer Basic Course for Magway branch offices’ staffs
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lw1n__) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lwinminpaing.mm) 
 
