@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi! My name is Lwin Min Paing!
-But you can call me Kian!!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__lw1n__) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lwinminpaing.mm) 
