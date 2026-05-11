@@ -24,7 +24,7 @@ required infrastructure using Cloud Platforms
 ■ Provide support to software engineers who use the CI/CD pipelines
 
 
-# 👷‍♂️👨‍💻 2022–2023
+# 👷‍♂️👨‍💻 2021–2023
 
 **Position:** IT Support & DevOps Engineer  
 **Organization:** [Tun Yat Co., Ltd.](https://www.linkedin.com/company/tunyat/)
