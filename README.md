@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! My name is Lwin Min Paing. 
 # 👨‍🎓 - Graduate Degree (Master's)
-I am an international graduate engineering student, focusing on Artifical Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), at Chulalongkorn University. My research area is 3D face reconstruction from 2D human image, which specifically uses DL to regress FLAME parameters to obtain 3D face geometry. These reconstructed 3D faces later use to create 3D human avatars by attaching to SMPLX body model.
+I am an international graduate engineering student, focusing on Artifical Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), at Chulalongkorn University. My research area is 3D face reconstruction from 2D human image, which specifically uses DL to regress FLAME parameters to obtain 3D face geometry. These reconstructed 3D faces are attached to SMPLX body model, resulting complete 3D human avatars.
 
 # 👨‍🎓 - Undergraduate Degree (Bachelor's)
 I have completed my undergraduate degree in University of Computer Studies, Yangon (UCSY). My focus was Computer Visions and Graphics (CVGs) and Cloud Computing for interconnected networks. My thesis was about Software Defined Networking (SDN), Limitations and Difficulties: Implementing Open Day Light (ODL) controller in a small environment, which was sucessfully tested in UCSMub new third floor building.
